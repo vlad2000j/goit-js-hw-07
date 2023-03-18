@@ -67,3 +67,6 @@ function onEscButtonPress(event) {
 		instanceRef.close();
 	}
 }
+
+
+// дз 7
